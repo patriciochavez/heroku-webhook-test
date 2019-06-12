@@ -1,0 +1,6 @@
+{
+  "name": "Start on Heroku: Node.js",
+  "description": "A barebones Node.js app using Express 4",
+  "repository": "https://github.com/patriciochavez/heroku-node-http-ws.git",
+  "image": "heroku/nodejs"
+}
